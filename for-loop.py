@@ -1,5 +1,5 @@
 fruits = ['apple','mangos',"banana"]
-# Looping through each item 
+# Looping through each item using for loop
 for fruit in fruits:
    # Prints len of each item
    print(fruit," length is " ,len(fruit))
