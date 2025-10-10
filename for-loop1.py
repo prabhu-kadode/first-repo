@@ -46,6 +46,11 @@ tablenumupto = 20
 tablenum = 20
 for n  in range(1,tablenumupto+1):
     print(n*tablenum)
+
+for t in (1,2,2):
+    print(t)
+
+
     
 
 
