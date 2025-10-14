@@ -3,7 +3,7 @@
 print(int('10')) # str to int
 print(int(10.20)) # flaot to int
 # str()
-print(str(10)) # int to str
+print(type(str(10))) # int to str
 print(str(10.20)) # float to str
 # float()
 
