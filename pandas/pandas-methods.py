@@ -49,6 +49,10 @@ a = [i for i in range(start,start-(lenitem*skipval),-skipval)]
 
 print(a)
 
+csvdf = pd.read_csv('a.csv')
+
+print(csvdf)
+
 
 
 
