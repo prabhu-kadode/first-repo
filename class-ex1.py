@@ -19,4 +19,5 @@ class Abcd:
         print("hi method")
 
 abcd = Abcd("india",'a@a.com')
+abcd = Abcd("india",'a1@a.com')
 # abcd.print_all_info()
