@@ -10,6 +10,7 @@ class Abcd:
 
 abcd = Abcd()
 abcd.addition()
+abcd.addition()
 
 # xyz.hi()
 
