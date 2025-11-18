@@ -1,0 +1,2000 @@
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+[2025-03-10 14:32:11] ERROR: An error occurred while processing the request. URL=/api/users/23
+
+2025-03-10T14:32:11Z ERROR Error occurred during operation. url=/login status=500
+
+[2025-03-10 14:32:11] INFO: Operation completed successfully. URL=/api/users/23
