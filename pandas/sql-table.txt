@@ -1,0 +1,64 @@
+CREATE TABLE users (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(150) UNIQUE NOT NULL,
+    city VARCHAR(100),
+    age INT,
+    department VARCHAR(100)
+);
+
+CREATE TABLE product (
+    id SERIAL PRIMARY KEY,
+    title VARCHAR(200) NOT NULL,
+    price NUMERIC(10,2) NOT NULL,
+    ownerid INT NOT NULL,
+    CONSTRAINT fk_owner
+        FOREIGN KEY (ownerid)
+        REFERENCES users(id)
+        ON DELETE CASCADE
+);
+
+CREATE TABLE customers (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(150) UNIQUE NOT NULL,
+    city VARCHAR(100),
+    age INT
+);
+
+INSERT INTO users (name, email, city, age, department)
+VALUES
+    ('Prabhu', 'prabhu2@a.com', 'Bangalore', 30, 'IT'),
+    ('Rahul', 'rahul@a.com', 'Mumbai', 28, 'Finance'),
+    ('Sneha', 'sneha@a.com', 'Pune', 26, 'HR'),
+    ('Kiran', 'kiran@a.com', 'Hyderabad', 32, 'IT'),
+    ('Anita', 'anita@a.com', 'Chennai', 29, 'Marketing');
+ 
+ select * from users u 
+
+ select * from users
+
+select u.city,count(city) as cityc from users u where age >20 group by u.city 
+
+select name, email,city
+from users u 
+where age >10
+order by name desc 
+limit 10
+
+
+select city, count(*) from users group by city
+
+select id, name, city, age,count(*) over (partition by city) as cityc from users u where age >30 order by name asc
+
+select age, count(*) from users group by age
+
+select department, count(*) from users  where age >40 group by department
+
+truncate table users cascade
+
+select * from product
+
+
+
+
